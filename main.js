@@ -16,9 +16,11 @@ characteristic:{
 },
 
 price:{
-  dollorPrice: "$130,800",
-  euroPrice: "US$100,000",
+  dollorPrice: "$130,800 USD",
+  euroPrice: "$100,000 US",
   sumPrice: "1148828993,96 UZS"
 }
 
 }
+
+console.log(car);
